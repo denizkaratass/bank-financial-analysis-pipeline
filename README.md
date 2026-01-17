@@ -1,1 +1,6 @@
-# bank-profitability-analysis-
+# bank-profitability-analysis
+├─ data/
+├─ notebooks/
+├─ sql/
+├─ powerbi/
+├─ README.md
