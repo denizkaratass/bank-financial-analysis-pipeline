@@ -65,5 +65,5 @@ Bu proje, karmaşık kurulum ve yapılandırma süreçlerini ortadan kaldıran *
 ---
 
 ### 
-Bu proje, manuel finansal süreçlerin otomasyonu üzerine geliştirilmiş bir portfolyo çalışmasıdır.
+Bu proje, manuel finansal raporlama süreçlerini otomatikleştirmeyi hedefleyen ve uçtan uca analitik düşünceyi yansıtan bir portföy çalışmasıdır.
 
