@@ -1,4 +1,4 @@
-# bank-profitability-analysis
+# Banka-Finans-Analiz-Otomasyonu
 ├─ data/
 ├─ notebooks/
 ├─ sql/
