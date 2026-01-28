@@ -4,7 +4,8 @@
 Bu proje; BDDK tarafından yayımlanan aylık banka finansal verilerini alıp, analitik olarak “ham ve dağınık” olan bu verileri **SQL & Power BI** ortamında doğrudan kullanılabilir, karşılaştırılabilir ve karar destek üretebilir bir finansal veri setine dönüştüren uçtan uca bir **Data Pipeline** çalışmasıdır.
 
 <img width="1303" height="730" alt="image" src="https://github.com/user-attachments/assets/48f98d25-f81a-496d-b0ee-a4839916a3fc" />
-<img width="1283" height="717" alt="image" src="https://github.com/user-attachments/assets/ce2ba205-128c-4a2e-8f81-e034d6da92a6" />
+<img width="1281" height="717" alt="image" src="https://github.com/user-attachments/assets/f7ae555a-8638-41cb-841e-17ae8f458ff0" />
+
 
 ---
 
